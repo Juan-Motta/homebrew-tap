@@ -7,6 +7,7 @@ cask "discord-apple-music" do
   desc "Show Apple Music playback as a Discord \"Listening to\" Rich Presence"
   homepage "https://github.com/Juan-Motta/discord-apple-music"
 
+  auto_updates true
   depends_on macos: :sonoma
 
   app "Discord Apple Music.app"
