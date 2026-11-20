@@ -1,6 +1,6 @@
 cask "dbforge" do
-  version "0.4.2"
-  sha256 "3e617201b47dfa9735cc7f49cdb1e1fe58d4d9a8a43a7fcf42ac45f9cb9b0478"
+  version "0.4.3"
+  sha256 "22a909c62d8e59690857d11fe6fa351a6d1eb5ceebbc93b457414e6b8ac85a0a"
 
   url "https://github.com/Juan-Motta/dbforge/releases/download/v#{version}/DBForge-#{version}.dmg"
   name "DBForge"
