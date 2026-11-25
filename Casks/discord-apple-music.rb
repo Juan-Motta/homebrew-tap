@@ -1,8 +1,8 @@
 cask "discord-apple-music" do
-  version "0.2.2"
-  sha256 "468586ca5416e74804a676d48c386e561100e2f1f67dee4e46a1e2baa614a7a5"
+  version "0.2.3"
+  sha256 "f14923c9eb092742d752fea4521a3c6fb31a4bbeab6077c455c143f220ea4cf8"
 
-  url "https://github.com/Juan-Motta/discord-apple-music/releases/download/v0.2.2/DiscordAppleMusic-0.2.2-macos.zip"
+  url "https://github.com/Juan-Motta/discord-apple-music/releases/download/v0.2.3/DiscordAppleMusic-0.2.3-macos.zip"
   name "Discord Apple Music"
   desc "Show Apple Music playback as a Discord \"Listening to\" Rich Presence"
   homepage "https://github.com/Juan-Motta/discord-apple-music"
